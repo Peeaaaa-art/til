@@ -1,4 +1,4 @@
-# til
-# til
-# til
-# til
+# TIL(TODAY I LERANED)
+
+
+学習のログです。
